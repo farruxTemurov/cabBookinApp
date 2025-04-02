@@ -88,3 +88,22 @@
 2025-04-02 22:58:17,768 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-04-02 22:58:17,771 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-04-02 22:58:17,778 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-02 23:02:47,576 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-02 23:02:47,588 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-02 23:02:47,592 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-02 23:09:01,152 [Worker-56: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:cab_fare_micro_service:0.0.1-SNAPSHOT @ C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\pom.xml.
+2025-04-02 23:09:02,429 [Worker-56: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cab_fare_micro_service/src/main/java
+2025-04-02 23:09:02,430 [Worker-56: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cab_fare_micro_service/src/main/resources
+2025-04-02 23:09:02,434 [Worker-56: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cab_fare_micro_service/src/main/resources
+2025-04-02 23:09:02,438 [Worker-56: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cab_fare_micro_service/src/test/java
+2025-04-02 23:09:02,439 [Worker-56: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cab_fare_micro_service/src/test/resources
+2025-04-02 23:09:02,935 [Worker-56: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-04-02 23:09:03,397 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-02 23:09:03,422 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-02 23:09:03,428 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources
+2025-04-02 23:10:15,206 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-02 23:10:15,218 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-02 23:10:15,223 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources
+2025-04-02 23:11:45,278 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-02 23:11:45,289 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-02 23:11:45,295 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources
