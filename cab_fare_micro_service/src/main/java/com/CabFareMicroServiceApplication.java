@@ -16,7 +16,6 @@ public class CabFareMicroServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CabFareMicroServiceApplication.class, args);
 		System.err.println("CabFare micro service's running on port 8282");
-
 	}
 
 }

@@ -62,6 +62,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service"/>
+			<item value="C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\main\resources\templates\bookCab.html"/>
+			<item value="C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service"/>
 			<item value="C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\Eureka-server"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -72,5 +75,9 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
