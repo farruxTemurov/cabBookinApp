@@ -1,26 +1,61 @@
 <!DOCTYPE html>
 <html xmlns:th="https://www.thymeleaf.org/">
 <head>
-<meta charset="UTF-8">
-<title>Cab Booking Form</title>
+    <meta charset="UTF-8">
+    <title>Cab Booking Form</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
 </head>
 <body>
-<div th:text="${msg}" style="color:red"></div>
-<h2>Welcome to Cab Booking Application!</h2>
-<form action="#" th:action="@{/bookCab}" method="post" th:object="${booking}">
-	
-	<label>Customer Name</label>
-	<input type="text" name="customerName" th:field="*{customerName}"/><br/>
-	
-	<label>Source</label>
-	<input type="text" name="source" th:field="*{source}"/><br/>
-	
-	<label>Destination</label>
-	<input type="text" name="destination" th:field="*{destination}"/><br/>
-	
 
-	<input type="submit" value="Book the Cab"/>
-	<input type="reset" value="reset"/>
-</form>
+<div class="container">
+    <!-- Error or success message -->
+    <div class="message" th:text="${msg}"></div>
+
+    <h2>Welcome to Cab Booking Application!</h2>
+
+    <!-- The form -->
+    <form action="#" th:action="@{/bookCab}" method="post" th:object="${booking}" id="bookingForm">
+        <div class="form-group">
+            <label for="customerName">Customer Name</label>
+            <input type="text" id="customerName" th:field="*{customerName}" placeholder="Enter your name" required/>
+        </div>
+
+        <div class="form-group">
+            <label for="source">Source</label>
+            <input type="text" id="source" th:field="*{source}" placeholder="Enter source location" required/>
+        </div>
+
+        <div class="form-group">
+            <label for="destination">Destination</label>
+            <input type="text" id="destination" th:field="*{destination}" placeholder="Enter destination location" required/>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Book the Cab"/>
+            <input type="reset" value="Reset" id="resetButton"/>
+        </div>
+    </form>
+</div>
+
+<script>
+    // Reset the form on page load
+    window.onload = function() {
+        // Check if the page is reloaded due to form submission
+        if (document.getElementById('bookingForm') != null) {
+            // Check if there is a form submission message (that implies form has been submitted)
+            if (!document.getElementById('customerName').value && !document.getElementById('source').value && !document.getElementById('destination').value) {
+                // Reset the form fields
+                document.getElementById('bookingForm').reset();
+            }
+        }
+    };
+
+    // Reset the form manually when the reset button is clicked
+    document.getElementById('resetButton').addEventListener('click', function() {
+        document.getElementById('bookingForm').reset();
+    });
+</script>
+
 </body>
 </html>

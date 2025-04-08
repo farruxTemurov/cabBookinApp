@@ -169,3 +169,148 @@
 2025-04-03 12:52:03,114 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-04-03 12:52:03,129 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-04-03 12:52:03,134 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-03 12:57:58,987 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 12:57:58,997 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 12:57:59,003 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-03 12:58:30,260 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 12:58:30,268 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 12:58:30,274 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-03 13:03:45,872 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 13:03:45,882 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 13:03:45,887 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-03 22:27:47,167 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-03 22:28:38,867 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 22:28:38,896 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-03 22:28:38,926 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources
+2025-04-03 22:30:01,511 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-03 22:30:01,513 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-03 22:30:01,518 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources
+2025-04-03 22:31:17,804 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating CabFareServiceTest from maven configuration
+2025-04-03 22:32:02,811 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-03 22:32:02,813 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-03 22:32:02,818 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources
+2025-04-06 18:13:28,729 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-06 18:31:50,556 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 18:31:50,603 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 18:31:50,611 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources
+2025-04-06 18:51:05,003 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 18:51:05,031 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 18:51:05,044 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 18:57:29,672 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 18:57:29,675 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 18:57:29,682 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 19:02:07,220 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:02:07,230 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:02:07,236 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 19:08:54,664 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:08:54,674 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:08:54,714 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 19:08:57,574 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:08:57,578 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:08:57,583 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 19:16:37,524 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:16:37,533 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:16:37,539 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 19:20:59,771 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:20:59,779 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:20:59,784 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 19:25:38,716 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:25:38,723 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 19:25:38,728 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:20:56,982 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:20:56,985 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:20:57,000 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:21:17,584 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:21:17,586 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:21:17,593 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:21:57,541 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:21:57,543 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:21:57,549 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:22:30,881 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:22:30,883 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:22:30,890 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:23:56,833 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:23:56,835 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:23:56,841 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:28:27,496 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:28:27,498 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:28:27,503 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:32:13,715 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:32:13,716 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:32:13,723 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:33:34,452 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:33:34,454 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:33:34,460 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:33:43,962 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:33:43,964 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:33:43,976 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:35:25,558 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:35:25,560 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:35:25,566 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:37:35,732 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:37:35,735 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:37:35,740 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:39:32,698 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:39:32,710 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-04-06 20:39:32,716 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:45:43,781 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:45:43,791 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:45:43,796 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:46:23,233 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:46:23,235 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:46:23,241 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:46:31,243 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:46:31,245 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:46:31,250 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:47:13,402 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:47:13,409 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-06 20:47:13,418 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:49:09,764 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:49:09,769 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-06 20:49:09,774 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:50:15,937 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:50:15,945 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-06 20:50:15,950 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:50:27,003 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:50:27,011 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-06 20:50:27,016 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:51:02,305 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:51:02,316 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-06 20:51:02,322 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:52:08,183 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:52:08,189 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-06 20:52:08,196 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 20:56:29,658 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-06 20:56:29,666 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 20:56:29,670 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 21:43:17,230 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:43:17,234 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:43:17,239 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 21:45:49,966 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:45:49,968 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:45:49,973 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 21:45:55,008 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating BookingInfoControllerTest from maven configuration
+2025-04-06 21:46:56,828 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:46:56,830 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:46:56,835 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 21:50:47,342 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:50:47,345 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:50:47,351 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 21:52:45,976 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:52:45,978 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:52:45,982 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-06 21:53:41,176 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:53:41,179 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-06 21:53:41,185 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-08 10:27:24,455 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-08 10:27:25,265 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2025-04-08 18:13:46,658 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-08 18:15:22,498 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 18:15:22,532 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 18:15:22,537 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\Eureka-server\src\test\resources
+2025-04-08 18:15:26,890 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 18:15:26,913 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-08 18:15:26,926 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_booking_micro_service\src\test\resources
+2025-04-08 18:15:28,364 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 18:15:28,392 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 18:15:28,398 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Caltech course-Simplilearn\project-three Spring Boot\bookCabsBuddy\cab_fare_micro_service\src\test\resources

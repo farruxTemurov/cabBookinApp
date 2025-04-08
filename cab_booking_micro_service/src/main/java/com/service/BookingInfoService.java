@@ -11,11 +11,14 @@ public class BookingInfoService {
 
 	public float getFare(String source, String destination) {
 		try {
-			String url = "http://FARE-SERVICE/fare/get?source=" + source + "&destination=" + destination;
-			return restTemplate.getForObject(url, Float.class); // Calls the fare service API
+			String url = "http://FARE-SERVICE/cabfare/findFare/" + source + "/" + destination;
+			System.out.println("Calling fare URL: " + url);
+			Float fare = restTemplate.getForObject(url, Float.class);
+			System.out.println("Received fare: " + fare);
+			return fare != null ? fare : -1;
 		} catch (Exception e) {
 			System.err.println("Error while fetching fare: " + e.getMessage());
-			return -1; // Return -1 if there's an error
+			return -1;
 		}
 	}
 }
