@@ -1,28 +1,49 @@
 package com.controller;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 
 import com.bean.BookingInfo;
+import com.repository.BookingInfoRepository;
+import com.service.BookingInfoService;
 
-@Controller // view must be thymeleaf
+@Controller
 public class BookingInfoController {
-	// http://localhost:8181
+    @Autowired
+    private BookingInfoService bookingInfoService;
 
-	@GetMapping(value = "/")
-	public String bookingLandingPage(Model mm, BookingInfo bi) {
-		mm.addAttribute("booking", bi);
-		return "booking-cab"; // need page with name as booking-cab
-	}
+    @Autowired
+    private BookingInfoRepository bookingInfoRepository;
 
-	@PostMapping(value = "/bookCab")
-	public String bookCab(Model mm, BookingInfo bi) {
+    @GetMapping(value = "/")
+    public String bookingLandingPage(Model mm, BookingInfo bi) {
+        mm.addAttribute("booking", new BookingInfo()); // Pass an empty BookingInfo object to reset the form
+        return "bookCab";
+    }
 
-		System.out.println("Booking Details: " + bi); // Calls toString() to print booking details
-		mm.addAttribute("msg", "Booking Successful!");
-		mm.addAttribute("booking", bi);
-		return "bookCab"; // need page with name as booking-cab
-	}
+    @PostMapping("/bookCab")
+    public String bookCab(Model model, @ModelAttribute BookingInfo bi) {
+        System.out.println("Booking Details: " + bi);
+
+        // Call fare microservice to get price
+        float fare = bookingInfoService.getFare(bi.getSource(), bi.getDestination());
+
+        if (fare == -1) {
+            model.addAttribute("msg", "Booking failed: Fare not available!");
+            model.addAttribute("booking", new BookingInfo()); // Reset the form on failure
+            return "bookCab";
+        }
+
+        // Set the fare and save booking
+        bi.setPrice(fare);
+        bookingInfoRepository.save(bi);
+
+        model.addAttribute("msg", "Booking Successful! Fare: $" + fare);
+        model.addAttribute("booking", new BookingInfo()); // Reset the form after success
+        return "bookCab";
+    }
 }
