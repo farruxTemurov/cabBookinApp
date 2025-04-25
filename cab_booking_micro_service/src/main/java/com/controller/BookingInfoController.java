@@ -38,7 +38,7 @@ public class BookingInfoController {
             return "bookCab";
         }
 
-        // Set the fare and save booking
+        // Set the fare and save the booking
         bi.setPrice(fare);
         bookingInfoRepository.save(bi);
 
